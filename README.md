@@ -1,10 +1,11 @@
 ## Installation
-composer install
-touch .env.example .env
-php artisan key:generate
-npm install
-npm run dev
-php artisan serve
+
+- composer install
+- touch .env.example .env
+- php artisan key:generate
+- npm install
+- npm run dev
+- php artisan serve
 
 Open your browser with url : 1270.0.0.1:8000
 
